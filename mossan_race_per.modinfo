@@ -1,0 +1,11 @@
+{
+  "name" : "mossan_race_per",
+  "version" : "1.3.3",
+  "path" : ".",
+  "requires" : [ "ccpersonalities", "mossan_race" ],
+  "metadata": {
+    "author" : "Mntle",
+    "description" : "Activates the personality structure already present in the Mossan race mod.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}
